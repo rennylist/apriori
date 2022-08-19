@@ -23,9 +23,12 @@
     },
     "extra": {
         "laravel": {
-          "providers": [
-            "RennyPasardesa\\Apriori\\ServiceProvider"
-          ]
+            "providers": [
+                "RennyPasardesa\\Apriori\\ServiceProvider"
+            ]
+        },
+        "branch-alias": {
+            "dev-main": "1.0"
         }
-      }
+    }
 }
